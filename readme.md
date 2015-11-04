@@ -1,10 +1,15 @@
-# my-blog 我的博客
+# 我的笔记本
+
+## 前言
+
+从今天开始用这个名为`my-note`的**github项目**来记录开发中遇到的问题和一些心得体会。
+
+Email: master@hiroz.cn
+Wechat: cnzx219
+[Blog](http://hiroz.cn) | [Github](https://github.com/cnzx219) | [Weibo](http://weibo.com/cnzx219)
+[关于我](http://hiroz.cn/about-me/)
 
 ## 目录
-
-### 前言
-
-从今天开始用 github 来记录开发中遇到的问题和一些心得体会。[关于我](http://hiroz.cn/about-me/)
 
 ### 新的
 
