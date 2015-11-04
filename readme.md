@@ -1,6 +1,8 @@
-# 目录
+# my-blog 我的博客
 
-## 前言
+## 目录
+
+### 前言
 
 从今天开始用 github 来记录开发中遇到的问题和一些心得体会。[关于我](http://hiroz.cn/about-me/)
 
@@ -10,7 +12,7 @@
 
 ### 之前的
 
-### 2015
+#### 2015
 
 [Android中适配魅族找不到android.settings.WIRELESS_SETTINGS的问题](android-adapte-meizu-wireless-settings.md) | android | 2015-11-4
 
