@@ -10,7 +10,7 @@
 
 但是我出现了这样的错误：
 
-![rename-application-package-exception](/images/rename-application-package-exception-in-eclipse-1.png)
+![rename-application-package-exception](images/rename-application-package-exception-in-eclipse-1.png)
 
 最后查明真相是这样的：在项目中的java文件被完全注释掉了，就会出现an unexpected exception occured的错误提示，注释掉的文件就应该直接删除嘛，删除文件就解决这个问题了。
 
