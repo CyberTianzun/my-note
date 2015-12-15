@@ -6,7 +6,7 @@
 
 Email: master@hiroz.cn
 
-Wechat: cnzx219
+Wechat: cnhiroz
 
 [Blog](http://hiroz.cn) | [Github](https://github.com/cnzx219) | [Weibo](http://weibo.com/cnzx219) | [关于我](http://hiroz.cn/about-me/)
 
