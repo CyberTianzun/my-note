@@ -6,23 +6,19 @@
 
 Email: master@hiroz.cn
 
-Wechat: cnhiroz
-
 [Blog](http://hiroz.cn) | [Github](https://github.com/cnzx219) | [Weibo](http://weibo.com/cnzx219) | [关于我](http://hiroz.cn/about-me/)
 
 ## 目录
 
 ### 新的
 
-#### 2015
-
-[Android中遇到HTTPS握手失败SSLHandshakeException的问题](2015/android-ssl-handshake-exception.md) | android | 2015-12-15
-
-暂时没有
+[Android中使用app_process命令时的建议](2015/android-app-process-command-suggestion.md) | android | 2016-4-29
 
 ### 之前的
 
 #### 2015
+
+[Android中遇到HTTPS握手失败SSLHandshakeException的问题](2015/android-ssl-handshake-exception.md) | android | 2015-12-15
 
 [Android中适配魅族找不到android.settings.WIRELESS_SETTINGS的问题](2015/android-adapte-meizu-wireless-settings.md) | android | 2015-11-4
 

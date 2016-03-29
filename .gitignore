@@ -3,3 +3,6 @@ Thumbs.db
 
 # OSX files
 .DS_Store
+
+# Ulysses files
+*.plist
