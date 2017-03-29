@@ -1,5 +1,9 @@
-# Mac下Cornerstone无法查看SVN日志的问题的解决办法
-
+---
+title: Mac下Cornerstone无法查看SVN日志的问题的解决办法
+date: 2015-11-4
+tags: ["mac", "version-control"]
+categories: "mac"
+---
 在 Cornerstone 中点击 Log 总是提示 “Could not contact repository to read the latest log entries”。
 
 在 Stackoverflow 上找到了这个

@@ -1,5 +1,9 @@
-# Android中适配魅族找不到android.settings.WIRELESS_SETTINGS的问题
-
+---
+title: Android中适配魅族找不到android.settings.WIRELESS_SETTINGS的问题
+date: 2015-11-4
+tags: "android"
+categories: "android"
+---
 今天遇到这样一个bug，显然魅族的系统中没有这个东西 `android.settings.WIRELESS_SETTINGS`。魅族肯定是自己写了一个，然后把 android 系统原来的那个 Action 给删了。。。你说该界面就复用原来那个不好吗，或者把 Action 加上做得和原来的一样也好啊。
 
 魅族真是太shi了

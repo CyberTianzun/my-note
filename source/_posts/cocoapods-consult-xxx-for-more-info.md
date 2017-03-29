@@ -1,7 +1,9 @@
-# 使用 Cocoapods 总是提示 There was an error reading CocoaPods-version.yml 错误
-
-## 起因
-
+---
+title: 使用 Cocoapods 总是提示 There was an error reading CocoaPods-version.yml 错误
+date: 2015-11-4
+tags: ["mac", "ios"]
+categories: "ios"
+---
 今天在使用 `pod install` 的时候总是提示失败（错误如下）。
 
 啰嗦一下就是cocoapods发布的时候很明显没有检查依赖更新，也没有明确指定依赖库的版本。如果依赖库每次升级都是兼容性的，那就没有问题，如果依赖库不是兼容性升级的，那你的项目也没法使用了。

@@ -1,8 +1,7 @@
-# Windows thumbnail db
-Thumbs.db
-
-# OSX files
 .DS_Store
-
-# Ulysses files
-*.plist
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/

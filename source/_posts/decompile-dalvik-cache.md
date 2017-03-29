@@ -1,16 +1,18 @@
-# 如何反编译 android 中 /data/dalvik-cache/arm 下的文件
-
-## 背景故事
-
+---
+title: 如何反编译 android 中 /data/dalvik-cache/arm 下的文件
+date: 2015-11-4
+tags: ["android", "decompile"]
+categories: "android"
+---
 首先我要讲的第一件事情就是，最近在调奇酷手机大Q上的一个bug：使用 `installPackage` 这条 API 安装系统应用的时候总是失败，但是 `pm install` 又是成功的。没办法，我只有把系统的 `pm` 反编译来看一看了。
 
 然后无奈手机太过于奇葩，一般 `pm.jar` 是放在 `/system/framework/` 下的，偏偏这台手机里边的 pm.jar 只有309字节大小，反编译出来没有任何代码。
 
-![sp-dir](images/decompile-dalvik-cache-1.png)
+![sp-dir](decompile-dalvik-cache-1.png)
 
 但是 pm 命令是可以运行的，是否调用了其他地方呢？
 
-![pm-cmd](images/decompile-dalvik-cache-2.png)
+![pm-cmd](decompile-dalvik-cache-2.png)
 
 好吧你厉害，你加载了一个空的 jar，没代码也能运行，没办法只有想想别的办法了。
 

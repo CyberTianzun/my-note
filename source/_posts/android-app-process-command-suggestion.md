@@ -1,6 +1,10 @@
-# Android中使用app_process命令时的建议
-
-## 结论直接写在前面
+---
+title: Android中使用app_process命令时的建议
+date: 2016-4-29
+tags: "android"
+categories: "android"
+---
+结论直接写在前面
 
 app_process命令的使用要注意下64位机器的情况，64位机器要用/system/bin/app_process32，强制使用32位模式。
 

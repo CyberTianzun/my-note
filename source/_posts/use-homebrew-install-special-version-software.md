@@ -1,5 +1,9 @@
-# 使用 Homebrew 安装特定版本的软件
-
+---
+title: 使用 Homebrew 安装特定版本的软件
+date: 2015-11-4
+tags: ["mac", "homebrew"]
+categories: "mac"
+---
 点击[查看原文](http://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of-formula)：
 
 Let’s start with the simplest case:

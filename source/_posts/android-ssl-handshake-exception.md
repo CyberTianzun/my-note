@@ -1,7 +1,10 @@
-# Android中遇到HTTPS握手失败SSLHandshakeException的问题
-
-## 我遇到的错误如下
-
+---
+title: Android中遇到HTTPS握手失败SSLHandshakeException的问题
+date: 2015-11-5
+tags: "android"
+categories: "android"
+---
+我遇到的错误如下
 javax.net.ssl.SSLHandshakeException: org.bouncycastle.jce.exception.ExtCertPathValidatorException: Could not validate certificate signature.
 
 ## 摘抄分析

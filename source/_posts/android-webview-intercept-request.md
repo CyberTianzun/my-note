@@ -1,9 +1,11 @@
-# Android中WebView中拦截所有请求并替换URL
-
-## 需求背景
-
+---
+title: Android中WebView中拦截所有请求并替换URL
+date: 2015-11-4
+tags: "android"
+categories: "android"
+---
+需求背景
 接到这样一个需求，需要在 WebView 的所有网络请求中，在请求的url中，加上一个xxx=1的标志位。
-
 例如 `http://www.baidu.com` 加上标志位就变成了 `http://www.baidu.com?xxx=1`
 
 ## 寻找解决方案

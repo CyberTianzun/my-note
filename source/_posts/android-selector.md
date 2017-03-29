@@ -1,7 +1,9 @@
-# Android中的Selector使用详解
-
-## 废话
-
+---
+title: Android中的Selector使用详解
+date: 2015-11-4
+tags: "android"
+categories: "android"
+---
 在进行布局的时候，为了更加方便地实现按钮点击状态或者某些状态的背景图切换、字体颜色切换等效果，Android提供了一种叫做 StateListDrawable 的东东，使用XML来进行定义不同状态下的图像。官方文档中举了这么一个例子。例如，一个按钮控件可以在几种不同的状态（按下，获取焦点，或者正常状态），使用 StateList ，你可以为每个状态绘制不同的背景图片。
 
 ## 重点
