@@ -1,8 +1,8 @@
 ---
-title: PUBG External Support for 3.7.20.1
+title: hive使用的时候不加use报错
 date: 2017-12-29
-tags: "hack"
-categories: "hack"
+tags: "hadoop"
+categories: "hadoop"
 ---
 
 

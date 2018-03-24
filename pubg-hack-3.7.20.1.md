@@ -1,4 +1,9 @@
-# Support for 3.7.20.1
+---
+title: PUBG External Support for 3.7.20.1
+date: 2018-3-24
+tags: "hack"
+categories: "hack"
+---
 
 
 ## UWorld:
