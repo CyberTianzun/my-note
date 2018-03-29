@@ -1,6 +1,6 @@
 ---
 title: PUBG External Support for 3.7.26.15
-date: 2018-3-24
+date: 2018-3-29
 tags: "hack"
 categories: "hack"
 ---
